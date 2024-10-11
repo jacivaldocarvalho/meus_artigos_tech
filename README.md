@@ -11,7 +11,7 @@ Repositório de artigos tech, abrangendo desde conteúdos informativos até abor
 
 
 ## 📚 Artigos desenvolvidos 
-- 📄 [Introdução ao Linux: O que é e suas Distribuições](/meus_artigos_tech/artigos/1%20-%20artigo1%20-%20Intro%20Linux.pdf)
+- 📄 [Introdução ao Linux: O que é e suas Distribuições](/artigos/1-artigo1_Intro_Linux.pdf)
 
 ## Networking
   <div style="display: inline_block"<><br>
