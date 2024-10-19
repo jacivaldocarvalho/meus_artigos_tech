@@ -6,7 +6,7 @@ Repositório de artigos tech, abrangendo desde conteúdos informativos até abor
 - [MEUS ARTIGOS TECH](#meus-artigos-tech)
   - [Índice](#índice)
   - [📚 Artigos desenvolvidos](#-artigos-desenvolvidos)
-  - [Networking](#networking)
+  - [🌎Networking](#networking)
 
 
 
@@ -14,7 +14,7 @@ Repositório de artigos tech, abrangendo desde conteúdos informativos até abor
 - 📄 [Introdução ao Linux: O que é e suas Distribuições](/artigos/1-artigo1_Intro_Linux.pdf)
 - 📄 [Computação em Nuvem: Definições,vantagens e Impactos](/artigos/2-artigo2_computação_em_nuvem.pdf)
 
-## Networking
+## 🌎Networking
   <div style="display: inline_block"<><br>
   <a href="https://www.linkedin.com/in/jacivaldocarvalho/" target="_blank">
     <img width="40" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
