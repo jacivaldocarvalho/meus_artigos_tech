@@ -12,6 +12,7 @@ Repositório de artigos tech, abrangendo desde conteúdos informativos até abor
 
 ## 📚 Artigos desenvolvidos 
 - 📄 [Introdução ao Linux: O que é e suas Distribuições](/artigos/1-artigo1_Intro_Linux.pdf)
+- 📄 [Computação em Nuvem: Definições,vantagens e Impactos](/artigos/2-artigo2_computação_em_nuvem.pdf)
 
 ## Networking
   <div style="display: inline_block"<><br>
@@ -24,6 +25,8 @@ Repositório de artigos tech, abrangendo desde conteúdos informativos até abor
  
   <a href="https://api.whatsapp.com/send/?phone=5591983476145" target="_blank">
     <img width="40" height="35" src="https://github.com/user-attachments/assets/4a185b4b-a0c1-45df-92e3-e48c27e5302c" alt="Whatsaap"/>
+
+
   </a>
   <a href="https://t.me/jacivaldocarvalho" target="_blank">
     <img width="40" height="35" src="https://github.com/user-attachments/assets/08f7f689-3c30-424a-ae6d-a560e534bd8a" alt="Telegram"/>
